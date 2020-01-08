@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class LL1 {
     /**
-     * @author 陈含章 20174459 1704
+     * @author charleschz
      * 使用的文法：(根据PPT,更改符号的表示)
      * 原来的文法
      *   E -> T E1 ① {I,(}
